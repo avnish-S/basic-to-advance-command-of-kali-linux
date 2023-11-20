@@ -1,0 +1,49 @@
+* `apt-get update`: Updates the list of available packages.
+* `apt-get install [package name]`: Installs a package.
+* `apt-get remove [package name]`: Removes a package.
+* `apt-get purge [package name]`: Removes a package and its configuration files.
+* `apt-get dist-upgrade`: Upgrades the system to the latest version.
+* `apt-get autoremove`: Removes packages that are no longer needed.
+* `apt-get clean`: Removes downloaded package files.
+* `apt-get check`: Checks for broken packages.
+* `apt-get install -f`: Fixes broken packages.
+* `dpkg -l`: Lists installed packages.
+* `dpkg -s [package name]`: Shows information about a package.
+* `dpkg -i [package name]`: Installs a package from a DEB file.
+* `dpkg -r [package name]`: Removes a package.
+* `dpkg -P [package name]`: Purges a package and its configuration files.
+* `mkdir [directory name]`: Creates a directory.
+* `cd [directory name]`: Changes the current directory.
+* `ls`: Lists the contents of the current directory.
+* `ls -a`: Lists all files and directories, including hidden files and directories.
+* `ls -l`: Lists the contents of the current directory in long format, showing file permissions, owner, group, size, and modification date.
+* `cp [source file] [destination file]`: Copies a file.
+* `mv [source file] [destination file]`: Moves a file.
+* `rm [file name]`: Removes a file.
+* `rm -r [directory name]`: Removes a directory and its contents.
+* `touch [file name]`: Creates an empty file.
+* `cat [file name]`: Displays the contents of a file.
+* `more [file name]`: Displays the contents of a file one page at a time.
+* `less [file name]`: Displays the contents of a file one page at a time, with more features than `more`.
+* `head [file name]`: Displays the first
+* `nmap [target IP address]`: Scans a target IP address for open ports and services.
+* `wireshark`: A network protocol analyzer.
+* `tcpdump`: A network packet sniffer.
+* `ettercap`: A network traffic sniffer and manipulator.
+* `burp suite`: A web application security testing tool.
+* `metasploit framework`: A penetration testing framework.
+* `john the ripper`: A password cracking tool.
+* `hashcat`: A password cracking tool.
+* `hydra`: A brute-force attack tool.
+* `aircrack-ng`: A wireless network cracking tool.
+* `kismet`: A wireless network sniffer.
+* `maltego`: A data mining tool.
+* `the harvester`: A web intelligence gathering tool.
+* `recon-ng`: A network reconnaissance tool.
+* `nessus`: A vulnerability scanner.
+* `openvas`: A vulnerability scanner.
+* `golismero`: A web application security testing tool.
+* `sqlmap`: A SQL injection tool.
+* `wpscan`: A WordPress security testing tool.
+* `joomla scan`: A Joomla security testing tool.
+* `droopescan`: A Drupal security testing tool.
